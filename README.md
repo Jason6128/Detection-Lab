@@ -25,23 +25,24 @@ Home Lab Topology: <br/>
 <br />
   
 <p align="center">
-Windows 10 agents conf <br/>
+Windows 10 agents configuration: <br/>
 <img src="https://i.imgur.com/CURPFMf.png" height="80%" width="80%" />
 <br />
 <br />
   
 <p align="center">
-Apply the Sysmon configuration<br/>
+Apply the Sysmon configuration: <br/>
 <img src="https://i.imgur.com/JMknElA.png" height="80%" width="80%" />
  <br />
   This step should be first confirmed if the host another has sysmon conf already
 <br />
 
 <p align="center">
-Cloud Host for wazuh service  <br/>
+Cloud Host for wazuh service:  <br/>
 <img src="https://i.imgur.com/A2A84eP.png" height="80%" width="80%" />
 <br />
  <br /> 
+  
 ## Prerequisites:
 - DigitalOcean account with a running Ubuntu server.
 - Basic knowledge of the steps.
@@ -54,13 +55,32 @@ Cloud Host for wazuh service  <br/>
 5. Click "Create Droplet."
 
 <p align="center">
-After the wazuh configuration<br/>
+After the wazuh configuration: <br/>
 <img src="https://i.imgur.com/eBlI75V.png" height="80%" width="80%" />
  <br />
-  This 
 <br />
 
 
+<p align="center">
+ Network configuration for the droplet: <br />
+<img src="https://i.imgur.com/FRlareD.png" height="80%" width="80%" />
+ <br />
+  configuration of Firewall for our wazuh.
+<br />
+
+
+<p align="center">
+ Accessing the wazuh-manager:  <br />
+<img src="https://i.imgur.com/UAMSXtC.png" height="80%" width="80%" />
+ <br />
+<br />
+
+
+<p align="center">
+ Accessing the wazuh-manager:  <br />
+<img src="https://i.imgur.com/5Jwj9lg.png" height="80%" width="80%" />
+ <br />
+ <br />
 
 
 
