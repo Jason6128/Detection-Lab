@@ -84,6 +84,33 @@ wazuh Dashbord :  <br />
 
 
 
+<p align="center">
+the wazuh-manager:  <br />
+<img src="https://i.imgur.com/5Jwj9lg.png" height="80%" width="80%" />
+ <br />
+ <br />
+
+<p align="center">
+<br />
+<img src="https://i.imgur.com/tsXnEWN.png" height="80%" width="80%" />
+ <br />
+  Having agents come next shows how to connect host 
+ <br />
+
+<p align="center">
+Using Powershell for the connect to wazuh: <br />
+<img src="https://i.imgur.com/jx7KAPh.png" height="80%" width="80%" />
+ <br />
+  After running this we use Net start wazuhsvc to start the connection 
+ <br />
+
+<p align="center">
+connections and configuration successfully: <br />
+<img src="https://i.imgur.com/RzRpJYO.png" height="80%" width="80%" />
+ <br />
+ <br />
+
+
 
 
 
