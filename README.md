@@ -77,8 +77,8 @@ After the wazuh configuration: <br/>
 
 
 <p align="center">
- Accessing the wazuh-manager:  <br />
-<img src="https://i.imgur.com/5Jwj9lg.png" height="80%" width="80%" />
+wazuh Dashbord :  <br />
+<img src="https://i.imgur.com/ziEU6GB.png" height="80%" width="80%" />
  <br />
  <br />
 
