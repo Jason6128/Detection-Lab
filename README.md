@@ -20,7 +20,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ## Steps
 <p align="center">
 Home Lab Topology: <br/>
-<img src="https://i.imgur.com/R0fa0cp.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/C7UPwJD.jpeg" height="80%" width="80%" />
 <br />
 <br />
   
@@ -62,10 +62,10 @@ After the wazuh configuration: <br/>
 
 
 <p align="center">
- Network configuration for the droplet: <br />
+ Network configuration for the droplet: configuration of Firewall for our wazuh. <br />
 <img src="https://i.imgur.com/FRlareD.png" height="80%" width="80%" />
  <br />
-  configuration of Firewall for our wazuh.
+  
 <br />
 
 
@@ -91,17 +91,17 @@ the wazuh-manager:  <br />
  <br />
 
 <p align="center">
-<br />
+Having agents come next shows how to connect host <br />
 <img src="https://i.imgur.com/tsXnEWN.png" height="80%" width="80%" />
  <br />
-  Having agents come next shows how to connect host 
+  
  <br />
 
 <p align="center">
-Using Powershell for the connect to wazuh: <br />
+Using Powershell for the connect to wazuh: After running this we use Net start wazuhsvc to start the connection  <br />
 <img src="https://i.imgur.com/jx7KAPh.png" height="80%" width="80%" />
  <br />
-  After running this we use Net start wazuhsvc to start the connection 
+  
  <br />
 
 <p align="center">
@@ -110,7 +110,18 @@ connections and configuration successfully: <br />
  <br />
  <br />
 
+<p align="center">
+Wazuh detected a malicious exe file:I recently had the opportunity to explore the installation and detection aspects of Mimikatz within the context of your project. The project's integration with Wazuh for detecting Mimikatz activities is commendable. <br />
+<img src="https://i.imgur.com/cwL5tR6.png" height="80%" width="80%" />
+ <br />
+ <br /> 
 
+
+<p align="center">
+Shuffle: it's nothing short of impressive! The seamless integration it offers between Wazuh, VirusTotal, and TheHive is a game-changer for anyone working in the realm of cybersecurity. This review aims to highlight the exemplary connection configuration that enables a smooth flow of information across these powerful platforms. <br />
+<img src="https://i.imgur.com/rhTpwlz.png" height="80%" width="80%" />
+ <br />
+ <br />
 
 
 
