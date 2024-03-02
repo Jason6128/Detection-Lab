@@ -123,16 +123,31 @@ Shuffle: it's nothing short of impressive! The seamless integration it offers be
  <br />
  <br />
 
+<p align="center">
+Both wazuh, Virus Total, and the hive have been able to receive the alert provide details about it, and create a use case for it   <br />
+<img src="https://i.imgur.com/W6vo8iL.png" height="80%" width="80%" />
+ <br />
+ <br />
+ 
+
+<p align="center">
+The hive will automatically create a use case for us after any alerts are flagged    <br />
+<img src="https://i.imgur.com/vlhfUP2.png" height="80%" width="80%" />
+ <br />
+ <br />
 
 
+<p align="center">
+The hive will also provide details about the malicious host flagged <br />
+<img src="https://i.imgur.com/eRACQHw.png" height="80%" width="80%" />
+ <br />
+ <br />
 
+### Conclusion:
+-  This project centers around creating a comprehensive Detection Lab for home environments, seamlessly integrating Wazuh for intrusion detection, TheHive for incident response collaboration, and Shuffle for orchestrating and automating SIEM processes. The goal is to empower users to build a robust Security Information and Event Management (SIEM) system within their home labs, enhancing their ability to monitor and respond to security threats effectively.
 
-
-
-
-
-
-
+### Contributions and Feedback:
+-  Contributions from the community are encouraged, fostering collaboration and collective improvement of the project. Users are invited to share feedback, report issues, and actively participate in enhancing the functionality of the home lab SIEM automation.
 
 
 
